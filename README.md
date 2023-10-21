@@ -35,7 +35,7 @@ This is a personal dashboard boilerplate app made with **SvelteKit** and **Supab
       Steps:
      - 📂 ***Rename***: `.env.example` to `.env`
      - 📂 ***Make sure you have a Supabase Auth project set up (w/ any auth accounts like Google)***
-     - ⬇️ ***Insert Supabase URL and ANON KEY***
+     - ⬇️ ***Insert Supabase URL and ANON KEY in `.env`***
      ```bash
      # Update these with your Supabase details from your Supabase project settings > API
      PUBLIC_SUPABASE_URL=YourURLHere
