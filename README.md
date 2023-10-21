@@ -24,11 +24,11 @@ This is a personal dashboard boilerplate app made with **SvelteKit** and **Supab
 
 1. **Clone the repository** to your local machine.
    ```bash
-   git clone [repository_link]
+   git clone https://github.com/soleribbon/SvelteKit-Auth-Boilerplate.git
 
 2. **Navigate to the project folder** and **install the dependencies**.
    ```bash
-   cd [project_name]
+   cd personal
    npm install
 
 3. **Start the development server**.
