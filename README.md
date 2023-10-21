@@ -3,6 +3,10 @@
 # 💃 Personal Dashboard Application 💃
 ### By VITO SOFTWARE aka Ravi
 
+
+<img alt="image" src="https://github.com/soleribbon/SvelteKit-Auth-Boilerplate/assets/25287442/f3fb9a17-b473-4d10-9d88-d8c91787e3de">
+
+
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-FF5733?style=for-the-badge&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
