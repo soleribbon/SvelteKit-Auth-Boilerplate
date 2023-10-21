@@ -28,7 +28,7 @@ This is a personal dashboard boilerplate app made with **SvelteKit** and **Supab
 
 2. **Navigate to the project folder** and **install the dependencies**.
    ```bash
-   cd personal
+   cd SvelteKit-Auth-Boilerplate
    npm install
 
 3. **Start the development server**
