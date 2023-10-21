@@ -31,8 +31,9 @@ This is a personal dashboard boilerplate app made with **SvelteKit** and **Supab
    cd personal
    npm install
 
-3. **Start the development server**.
-npm run dev -- --host
+3. **Start the development server**
+   ```bash
+   npm run dev -- --host
 
 *Note: The --host flag makes your application accessible to any device on your local network.*
 
