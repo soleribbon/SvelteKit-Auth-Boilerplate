@@ -1,0 +1,35 @@
+{
+	"name": "personal",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"test": "playwright test",
+		"lint": "prettier --plugin-search-dir . --check .",
+		"format": "prettier --plugin-search-dir . --write ."
+	},
+	"devDependencies": {
+		"@playwright/test": "^1.28.1",
+		"@sveltejs/adapter-auto": "^1.0.0-next.90",
+		"@sveltejs/kit": "^1.0.0-next.587",
+		"autoprefixer": "^10.4.15",
+		"postcss": "^8.4.29",
+		"prettier": "^3.0.3",
+		"prettier-plugin-tailwindcss": "^0.5.4",
+		"rimraf": "^3.0.2",
+		"rollup-plugin-inline-svg": "^3.0.3",
+		"svelte": "^3.54.0",
+		"tailwindcss": "^3.3.3",
+		"vite": "^4.0.0"
+	},
+	"type": "module",
+	"dependencies": {
+		"@supabase/auth-helpers-sveltekit": "^0.10.3",
+		"@supabase/supabase-js": "^2.33.2",
+		"animate.css": "^4.1.1",
+		"bulma-modal-fx": "^1.1.1",
+		"prettier-plugin-svelte": "^3.0.3"
+	}
+}
