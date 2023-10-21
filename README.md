@@ -53,8 +53,8 @@ This is a personal dashboard boilerplate app made with **SvelteKit** and **Supab
 
 ### 🎨 Styling
 
-- Styled using Tailwind CSS.
-- 📂 **Related Code**: `tailwind.config.js`
+- Styled using Tailwind CSS & Bulma CSS
+- 📂 **Related Code**: `tailwind.config.js` & `bulma.min.css`
 
 ### 🧪 Testing
 
