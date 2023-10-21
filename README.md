@@ -1,6 +1,6 @@
-# 🌟 Personal Dashboard Application 🌟
-
 <div align="center">
+
+# 💃 Personal Dashboard Application 💃
 
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-FF5733?style=for-the-badge&logo=supabase&logoColor=white)
