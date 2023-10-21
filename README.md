@@ -31,7 +31,7 @@ This is a personal dashboard boilerplate app made with **SvelteKit** and **Supab
    cd SvelteKit-Auth-Boilerplate
    npm install
 
-2. **Rename environment file and insert Supabase URL/Anon key.
+2. **Rename environment file and insert Supabase URL/Anon key**.
      - 📂 ***Rename***: `.env.example` to `.env`
      - ➡ ***Insert url and key ***
      ```bash
