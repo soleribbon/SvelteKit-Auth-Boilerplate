@@ -31,6 +31,14 @@ This is a personal dashboard boilerplate app made with **SvelteKit** and **Supab
    cd SvelteKit-Auth-Boilerplate
    npm install
 
+2. **Rename environment file and insert Supabase URL/Anon key.
+     - 📂 ***Rename***: `.env.example` to `.env`
+     - ➡ ***Insert url and key ***
+     ```bash
+     # Update these with your Supabase details from your project settings > API
+     PUBLIC_SUPABASE_URL=YourURLHere
+     PUBLIC_SUPABASE_ANON_KEY=YourKeyHere
+
 3. **Start the development server**
    ```bash
    npm run dev -- --host
