@@ -33,7 +33,7 @@ This is a personal dashboard boilerplate app made with **SvelteKit** and **Supab
 
 2. **Rename environment file and insert Supabase URL/Anon key**.
      - 📂 ***Rename***: `.env.example` to `.env`
-     - ➡ ***Insert url and key ***
+     - ➡ ***Insert URL and ANON KEY***
      ```bash
      # Update these with your Supabase details from your project settings > API
      PUBLIC_SUPABASE_URL=YourURLHere
