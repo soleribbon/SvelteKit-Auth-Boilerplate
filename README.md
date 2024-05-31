@@ -57,7 +57,7 @@ This is a personal dashboard boilerplate app made with **SvelteKit** and **Supab
 
 - Handles user sign-up, sign-in, and password reset functionality.
 - Leverages Supabase's authentication services.
-- Compatible with Google + GitHub authentication (go ![here](https://console.cloud.google.com/apis/credentials/consent) to create Google auth)
+- Compatible with Google + GitHub authentication (go [here](https://console.cloud.google.com/apis/credentials/consent) to create Google auth)
 - 📂 **Related Code**: `src/routes/(app)/+page.server.js`
 
 ### 📊 Dashboard
